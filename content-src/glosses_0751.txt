@@ -1,0 +1,250 @@
+floor|piso, suelo|I live on the third floor.
+stuff|cosas (informal)|I have a lot of stuff to do.
+wide|ancho, amplio|The river is very wide.
+anyone|alguien; cualquiera|Is anyone here?
+method|método|What method do you use?
+analysis|análisis|The analysis took two weeks.
+election|elección (votación)|The election is in November.
+military|militar|He served in the military.
+hotel|hotel|We stayed at a nice hotel.
+club|club|I joined a book club.
+below|debajo, abajo|See the notes below.
+movie|película|Let's watch a movie.
+doctor|médico, doctor|I need to see a doctor.
+discussion|discusión, conversación|We had a long discussion.
+sorry|perdón, lo siento|Sorry, I'm late.
+challenge|desafío|It's a big challenge.
+nation|nación|The whole nation celebrated.
+nearly|casi|It's nearly midnight.
+statement|declaración; estado de cuenta|Check your bank statement.
+link|enlace; vincular|Send me the link.
+despite|a pesar de|Despite the rain, we went out.
+introduce|presentar (a alguien); introducir|Let me introduce my friend.
+advantage|ventaja|It has many advantages.
+ready|listo|Are you ready?
+marry|casarse con|Will you marry me?
+strike|huelga; golpear|The workers are on strike.
+mile|milla (1,6 km)|It's two miles from here.
+seek|buscar (formal)|We seek new talent.
+ability|capacidad, habilidad|She has the ability to lead.
+unit|unidad|Open unit three.
+card|tarjeta; carta (naipes)|Can I pay by card?
+hospital|hospital|She's in the hospital.
+quickly|rápidamente|Come quickly!
+interview|entrevista; entrevistar|I have a job interview tomorrow.
+agreement|acuerdo|We reached an agreement.
+release|lanzar, liberar; lanzamiento|The new version was released today.
+tax|impuesto|Taxes are high.
+solution|solución|We found a solution.
+capital|capital|Santiago is the capital of Chile.
+popular|popular|It's a popular app.
+specific|específico|Can you be more specific?
+beautiful|hermoso|What a beautiful day!
+fear|miedo; temer|I have a fear of heights.
+aim|objetivo; apuntar|Our aim is to grow.
+television|televisión|Turn off the television.
+serious|serio, grave|Are you serious?
+target|objetivo, meta|We reached our sales target.
+degree|título universitario; grado|I have a degree in engineering.
+pull|tirar, jalar|Pull the door.
+red|rojo|She has red hair.
+husband|esposo|Her husband is a chef.
+access|acceso; acceder|I can't access my account.
+movement|movimiento|Every movement hurts.
+treat|tratar; invitar; gusto|Let me treat you to lunch.
+identify|identificar|Can you identify the problem?
+loss|pérdida|The company had a big loss.
+shall|auxiliar formal de futuro/sugerencia|Shall we go?
+modern|moderno|It's a modern building.
+pressure|presión|I work well under pressure.
+bus|bus, micro|I take the bus to work.
+treatment|tratamiento|The treatment worked.
+conference|conferencia, congreso|I'm going to a tech conference.
+yourself|tú mismo; te|Take care of yourself.
+supply|suministro; abastecer|We need more supplies.
+village|aldea, pueblo|They live in a small village.
+worth|que vale (la pena)|It's worth it.
+natural|natural|It's a natural product.
+express|expresar; exprés|It's hard to express my feelings.
+indicate|indicar|The results indicate a problem.
+attend|asistir a (falso amigo de "atender")|I attended the meeting.
+brother|hermano|I have one brother.
+investment|inversión|It's a good investment.
+score|puntaje; anotar|What's the score?
+organize|organizar|Let's organize a party.
+trip|viaje (corto)|How was your trip?
+beyond|más allá de|It's beyond my control.
+sleep|dormir; sueño|I need to sleep.
+fish|pez; pescado; pescar|I don't eat fish.
+promise|prometer; promesa|I promise.
+potential|potencial|She has great potential.
+energy|energía|I have no energy today.
+trouble|problema, dificultad|I'm in trouble.
+relation|relación|There's no relation between them.
+touch|tocar; contacto|Don't touch that! / Keep in touch.
+file|archivo|Save the file.
+middle|medio, centro|In the middle of the night.
+bar|bar; barra|Let's meet at the bar.
+suffer|sufrir|He suffers from back pain.
+strategy|estrategia|We need a new strategy.
+deep|profundo|The water is deep.
+except|excepto|Everyone came except Tom.
+clean|limpio; limpiar|Clean your room.
+tend|tender a, soler|I tend to sleep late.
+advance|avance; avanzar; in advance = por adelantado|Pay in advance.
+fill|llenar|Fill the glass.
+star|estrella|Look at the stars.
+network|red|The network is down.
+generally|generalmente|I generally agree.
+operation|operación|The operation was successful.
+match|partido; fósforo; coincidir|The colors don't match.
+avoid|evitar|Avoid sugar.
+seat|asiento|Is this seat free?
+throw|lanzar, tirar|Don't throw it away.
+task|tarea|I have three tasks today.
+normal|normal|It's normal to make mistakes.
+goal|meta; gol|What's your goal?
+associate|asociar; socio|I associate this song with summer.
+blue|azul|The sky is blue.
+positive|positivo|Stay positive.
+option|opción|We have two options.
+box|caja|Put it in the box.
+huge|enorme|The house is huge.
+message|mensaje|Send me a message.
+instance|ejemplo; for instance = por ejemplo|For instance, you can use an app.
+style|estilo|I like your style.
+refer|referirse; derivar|Which report are you referring to?
+cold|frío; resfrío|I have a cold.
+push|empujar|Push the button.
+quarter|cuarto; trimestre|It's a quarter past ten.
+assume|asumir, suponer|I assume you're busy.
+baby|bebé|The baby is sleeping.
+successful|exitoso|She's a successful lawyer.
+sing|cantar|Can you sing?
+doubt|duda; dudar|No doubt about it.
+competition|competencia|There's a lot of competition.
+theory|teoría|In theory, it works.
+propose|proponer|I propose a new plan.
+reference|referencia|Can you give me a reference?
+argument|discusión (pelea); argumento|They had an argument.
+adult|adulto|Tickets for adults cost ten dollars.
+fly|volar; mosca|I'm flying to Lima.
+document|documento|Sign the document.
+pattern|patrón|I see a pattern.
+application|solicitud; aplicación|I sent my job application.
+hot|caliente; caluroso|It's hot today.
+obviously|obviamente|Obviously, I'm tired.
+unclear|poco claro|The instructions are unclear.
+bill|cuenta, factura; proyecto de ley|I need to pay the bills.
+search|buscar; búsqueda|Search on Google.
+separate|separado; separar|Keep them separate.
+central|central|It's in a central location.
+career|carrera profesional (no "carrera universitaria")|I want a career in IT.
+anyway|de todas formas|Anyway, let's continue.
+speech|discurso; habla|He gave a great speech.
+dog|perro|I have a dog.
+officer|oficial; policía|Thank you, officer.
+throughout|durante todo; por todo|It rained throughout the day.
+oil|aceite; petróleo|Add some olive oil.
+dress|vestido; vestirse|She's wearing a blue dress.
+profit|ganancia|The company made a profit.
+guess|adivinar; suponer|Guess what!
+fun|diversión; divertido|Have fun!
+protect|proteger|Protect your password.
+resource|recurso|We have limited resources.
+science|ciencia|I love science.
+disease|enfermedad|It's a rare disease.
+balance|equilibrio; saldo|Check your balance.
+damage|daño; dañar|The storm caused damage.
+basis|base; on a daily basis = a diario|I exercise on a daily basis.
+author|autor|Who's the author?
+basic|básico|I have basic English.
+encourage|animar, alentar|My parents encourage me.
+hair|pelo, cabello (incontable)|She has long hair.
+male|masculino; hombre|Male or female?
+operate|operar; funcionar|Can you operate this machine?
+reflect|reflejar; reflexionar|Take time to reflect.
+exercise|ejercicio; hacer ejercicio|I exercise three times a week.
+useful|útil|This app is very useful.
+restaurant|restaurante|Let's go to a restaurant.
+income|ingreso(s)|What's your monthly income?
+property|propiedad|This is private property.
+previous|anterior|My previous job was in sales.
+dark|oscuro|It's dark outside.
+imagine|imaginar|Imagine a better world.
+okay|está bien, ok|Is it okay if I leave early?
+earn|ganar (dinero)|How much do you earn?
+daughter|hija|My daughter is five.
+post|publicar; publicación; correo|I posted a photo.
+newspaper|diario, periódico|I read the newspaper online.
+define|definir|How do you define success?
+conclusion|conclusión|In conclusion, it was a good year.
+clock|reloj (de pared)|The clock is wrong.
+everybody|todos|Everybody knows him.
+weekend|fin de semana|See you on the weekend.
+perform|realizar; actuar|The team performed well.
+professional|profesional|She's very professional.
+mine|mío; mina|This bag is mine.
+debate|debate|We had a debate about AI.
+memory|memoria; recuerdo|I have a bad memory.
+green|verde|Green tea, please.
+song|canción|I love this song.
+object|objeto; objetar|What's that object?
+maintain|mantener|Maintain a healthy weight.
+credit|crédito|Pay with a credit card.
+ring|anillo; sonar|The phone is ringing.
+discover|descubrir|We discovered a new café.
+dead|muerto|My phone is dead.
+afternoon|tarde|Good afternoon.
+prefer|preferir|I prefer tea.
+extend|extender|Can we extend the deadline?
+possibility|posibilidad|There's a possibility of rain.
+direction|dirección (sentido)|Which direction?
+facility|instalación|The facilities are modern.
+variety|variedad|There's a variety of options.
+daily|diario|It's part of my daily routine.
+clothes|ropa|I need new clothes.
+screen|pantalla|My screen is broken.
+track|pista; seguir (track = registrar)|I track my study hours.
+dance|bailar; baile|Do you like to dance?
+completely|completamente|I completely forgot.
+female|femenino; mujer|Female or male?
+responsibility|responsabilidad|It's your responsibility.
+original|original|Is this the original?
+sister|hermana|My sister lives in Spain.
+rock|roca; rock|I like rock music.
+dream|sueño; soñar|Follow your dreams.
+nor|ni|Neither he nor I knew.
+university|universidad|I studied at the university.
+easily|fácilmente|You can easily do it.
+agency|agencia|She works at a travel agency.
+dollar|dólar|It costs ten dollars.
+garden|jardín|We have a small garden.
+fix|arreglar|Can you fix my computer?
+ahead|adelante|Go ahead.
+cross|cruzar; cruz|Cross the street carefully.
+yeah|sí (informal)|Yeah, sure.
+candidate|candidato|She's the best candidate.
+weight|peso|I lost weight.
+legal|legal|Is it legal?
+proposal|propuesta|Send me your proposal.
+version|versión|Update to the latest version.
+conversation|conversación|We had a long conversation.
+somebody|alguien|Somebody is at the door.
+pound|libra|It weighs two pounds.
+magazine|revista|I read a magazine.
+shape|forma; estado físico|I'm in good shape.
+sea|mar|I love the sea.
+immediately|inmediatamente|Call me immediately.
+welcome|bienvenido; dar la bienvenida|Welcome to Chile!
+smile|sonreír; sonrisa|Smile for the photo.
+communication|comunicación|Communication is key.
+agent|agente|Talk to a customer service agent.
+traditional|tradicional|It's a traditional dish.
+replace|reemplazar|Replace the battery.
+judge|juez; juzgar|Don't judge people.
+herself|ella misma; se|She did it herself.
+suddenly|de repente|Suddenly, the lights went out.
+generation|generación|My generation grew up online.
+estimate|estimar; estimación|I estimate two weeks.
+favorite|favorito|What's your favorite food?

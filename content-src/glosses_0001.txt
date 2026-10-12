@@ -1,0 +1,250 @@
+the|el, la, los, las|The coffee is hot.
+be|ser, estar|I want to be a good engineer.
+and|y|I like tea and coffee.
+of|de|She is a friend of mine.
+to|a, hacia; para (+ verbo)|I need to call my mom.
+a|un, una|I have a question.
+in|en, dentro de|The keys are in my bag.
+have|tener; haber (auxiliar)|I have two brothers.
+it|eso, lo, la (cosa)|It is very cold today.
+you|tú, usted, ustedes; te, lo|Can you help me?
+he|él|He works in a bank.
+for|para, por|This gift is for you.
+they|ellos, ellas|They live near the beach.
+not|no|I am not tired.
+that|ese, eso, aquel; que|That is my car.
+we|nosotros|We are ready.
+on|sobre, en (superficie); encendido|The book is on the table.
+with|con|I live with my sister.
+this|este, esta, esto|This is my phone.
+I|yo|I speak Spanish.
+do|hacer; auxiliar de preguntas|What do you do for work?
+as|como; mientras|She works as a nurse.
+at|en (lugar, hora)|See you at five.
+she|ella|She is my manager.
+but|pero|It's small but comfortable.
+from|de, desde|I'm from Chile.
+by|por, junto a; para (plazo)|Send it by Friday.
+will|auxiliar de futuro|I will call you tomorrow.
+or|o|Tea or coffee?
+say|decir|What did she say?
+go|ir|Let's go home.
+so|así que; tan|I was tired, so I slept.
+all|todo, todos|All my friends came.
+if|si (condicional)|If it rains, we stay home.
+one|uno; alguien|I have one sister.
+would|auxiliar condicional (-ría)|I would like a coffee.
+about|sobre, acerca de; aproximadamente|Tell me about your job.
+can|poder (habilidad, permiso)|Can I sit here?
+which|cuál, que (el cual)|Which one do you want?
+there|allí; there is/are = hay|There is a problem.
+know|saber, conocer|I don't know the answer.
+more|más|I need more time.
+get|obtener, conseguir; llegar; ponerse|I'll get some milk.
+who|quién; que (personas)|Who is that man?
+like|gustar; como (comparación)|I like music. / It looks like rain.
+when|cuándo, cuando|Call me when you arrive.
+think|pensar, creer|I think you're right.
+make|hacer, fabricar|She makes great cookies.
+time|tiempo; vez; hora|What time is it?
+see|ver|I can't see anything.
+what|qué, lo que|What is your name?
+up|arriba, hacia arriba|Stand up, please.
+some|algo de, algunos|I want some water.
+other|otro|The other door is open.
+out|fuera, afuera|Let's go out tonight.
+good|bueno|That's a good idea.
+people|gente, personas|People are friendly here.
+year|año|I started last year.
+take|tomar, llevar|Take an umbrella.
+no|no; ningún|There's no milk.
+well|bien; bueno (muletilla)|You speak English well.
+because|porque|I stayed home because I was sick.
+very|muy|It's very important.
+just|solo, justo; recién|I just arrived.
+come|venir|Come here, please.
+could|podría; pude|Could you repeat that?
+work|trabajar; trabajo|I work from home.
+use|usar; uso|Can I use your pen?
+than|que (comparación)|She is taller than me.
+now|ahora|I'm busy now.
+then|entonces, luego|First eat, then sleep.
+also|también|I also speak French.
+into|dentro de, hacia adentro|He walked into the room.
+only|solo, único|I only have five dollars.
+look|mirar; parecer|Look at this photo.
+want|querer|I want a new job.
+give|dar|Give me a minute.
+first|primero|This is my first time here.
+new|nuevo|I bought a new laptop.
+way|camino; manera|This is the best way to learn.
+find|encontrar|I can't find my keys.
+over|sobre, encima; terminado|The meeting is over.
+any|cualquier; algún (en preguntas/negativas)|Do you have any questions?
+after|después de|Let's talk after lunch.
+day|día|Have a nice day.
+where|dónde|Where do you live?
+thing|cosa|I have many things to do.
+most|la mayoría; lo más|Most people agree.
+should|debería|You should rest.
+need|necesitar|I need help.
+much|mucho (incontable)|Thank you very much.
+right|correcto; derecha; justo|You're right.
+how|cómo|How are you?
+back|atrás, de vuelta; espalda|I'll be back soon.
+mean|significar; querer decir|What does this word mean?
+even|incluso, aun|Even my dad likes it.
+may|puede que; poder (permiso formal)|It may rain later.
+here|aquí|Come here.
+many|muchos (contable)|I have many friends.
+such|tal, tan|It was such a nice day.
+last|último; pasado; durar|I saw her last week.
+child|niño, hijo (pl. children)|Their child is three years old.
+tell|decir, contar (a alguien)|Tell me the truth.
+really|realmente, de verdad|I really like it.
+call|llamar; llamada|I'll call you later.
+before|antes (de)|Wash your hands before eating.
+company|empresa; compañía|She works for a tech company.
+through|a través de|We walked through the park.
+down|abajo, hacia abajo|Please sit down.
+show|mostrar; programa, espectáculo|Show me your work.
+life|vida|Life is good.
+man|hombre|That man is my uncle.
+change|cambiar; cambio|Things change fast.
+place|lugar|This is a nice place.
+long|largo; mucho tiempo|It was a long day.
+between|entre (dos)|Sit between us.
+feel|sentir(se)|I feel tired.
+too|también; demasiado|It's too expensive.
+still|todavía, aún|I'm still waiting.
+problem|problema|No problem.
+write|escribir|Write your name here.
+same|mismo|We have the same phone.
+lot|a lot (of) = mucho|I have a lot of work.
+great|genial; grande|That's great news!
+try|intentar; probar|Try again.
+leave|irse, salir; dejar|I leave work at six.
+number|número|What's your phone number?
+both|ambos|Both options are good.
+own|propio; poseer|I have my own room.
+part|parte|This is the best part.
+point|punto; señalar|Good point!
+little|pequeño; poco|I speak a little English.
+help|ayudar; ayuda|Can you help me?
+ask|preguntar; pedir|Can I ask you something?
+meet|conocer (a alguien); reunirse|Nice to meet you.
+start|empezar; inicio|The class starts at nine.
+talk|hablar, conversar|We need to talk.
+something|algo|I want to tell you something.
+put|poner|Put it on the table.
+another|otro (más)|Can I have another one?
+become|llegar a ser, volverse|She became a doctor.
+interest|interés; interesar|I have no interest in sports.
+country|país; campo|Chile is a long country.
+old|viejo; antiguo|This house is very old.
+each|cada|Each student has a book.
+school|escuela, colegio|My kids go to school by bus.
+late|tarde; atrasado|Sorry I'm late.
+high|alto (no personas)|The prices are very high.
+different|diferente|We have different opinions.
+off|apagado; fuera de|Turn off the light.
+next|próximo, siguiente|See you next week.
+end|fin; terminar|The end of the movie was sad.
+live|vivir|Where do you live?
+why|por qué|Why are you sad?
+while|mientras|I read while I wait.
+world|mundo|It's a small world.
+week|semana|I work five days a week.
+play|jugar; tocar (instrumento); obra|Do you play the guitar?
+might|podría (posibilidad)|I might be late.
+must|deber (obligación fuerte)|You must wear a seatbelt.
+home|casa, hogar|I'm going home.
+never|nunca|I never drink coffee.
+include|incluir|The price includes breakfast.
+course|curso; por supuesto (of course)|Of course I can help.
+house|casa|They bought a house.
+report|informe; reportar|I need to finish the report.
+group|grupo|Work in groups of three.
+case|caso; estuche|In that case, let's wait.
+woman|mujer (pl. women)|That woman is my teacher.
+around|alrededor; por ahí|There are trees all around.
+book|libro; reservar|I booked a table for two.
+family|familia|My family is big.
+seem|parecer|You seem happy.
+let|dejar, permitir|Let me help you.
+again|otra vez|Say it again, please.
+kind|tipo; amable|What kind of music do you like?
+keep|mantener; guardar; seguir|Keep the change.
+hear|oír|Can you hear me?
+system|sistema|The system is down.
+every|cada, todos los|I run every day.
+question|pregunta|I have a question.
+during|durante|Don't talk during the movie.
+always|siempre|She is always on time.
+big|grande|It's a big city.
+set|poner; conjunto; fijar|Set the alarm for six.
+small|pequeño|I live in a small apartment.
+study|estudiar; estudio|I study English every day.
+follow|seguir|Follow me.
+begin|comenzar|Let's begin.
+important|importante|This is very important.
+since|desde; ya que|I've lived here since 2019.
+run|correr; dirigir (un negocio)|I run in the morning.
+under|debajo de|The cat is under the bed.
+turn|girar; turno|Turn left here.
+few|pocos|I have a few questions.
+bring|traer|Bring your laptop tomorrow.
+early|temprano|I get up early.
+hand|mano; entregar|Raise your hand.
+state|estado; declarar|The state of the economy is bad.
+move|mover(se); mudarse|We moved to Santiago last year.
+money|dinero|I don't have much money.
+fact|hecho|In fact, I agree with you.
+however|sin embargo|It's cheap. However, it's slow.
+area|área, zona|I live in a quiet area.
+provide|proporcionar, entregar|We provide free training.
+name|nombre|What's your name?
+read|leer|I read before bed.
+friend|amigo|She's my best friend.
+month|mes|I'll travel next month.
+large|grande|A large coffee, please.
+business|negocio; empresa|He has his own business.
+without|sin|I can't work without coffee.
+information|información (incontable)|I need more information.
+open|abrir; abierto|The store is open until nine.
+order|orden; pedido; pedir (comida)|Are you ready to order?
+government|gobierno|The government raised taxes.
+word|palabra|What's the word for this?
+issue|tema, problema; emitir|We have an issue with the server.
+market|mercado|I buy fruit at the market.
+pay|pagar; sueldo|Can I pay by card?
+build|construir|They're building a new bridge.
+hold|sostener; mantener; esperar (en línea)|Hold on a second.
+service|servicio|The service was excellent.
+against|contra|I'm against the idea.
+believe|creer|I believe you.
+second|segundo|Wait a second.
+though|aunque; sin embargo|It's cold. I like it, though.
+yes|sí|Yes, I agree.
+love|amar, encantar; amor|I love this song.
+increase|aumentar; aumento|Prices increased again.
+job|trabajo, empleo|I got a new job.
+plan|plan; planear|What's the plan for today?
+result|resultado|The results are good.
+away|lejos; fuera|Go away!
+example|ejemplo|Can you give me an example?
+happen|pasar, ocurrir|What happened?
+offer|ofrecer; oferta|They offered me the job.
+young|joven|She's young but very smart.
+close|cerrar; cerca|Close the door. / It's close to here.
+program|programa|I use this program at work.
+lead|liderar; llevar a|She leads the team.
+buy|comprar|I want to buy a car.
+understand|entender|I don't understand.
+thank|agradecer|Thank you for your help.
+far|lejos|Is it far from here?
+today|hoy|I'm free today.
+hour|hora|I'll be there in an hour.
+student|estudiante|I'm a student.
+face|cara; enfrentar|Wash your face.
+hope|esperar (con deseo); esperanza|I hope you feel better.

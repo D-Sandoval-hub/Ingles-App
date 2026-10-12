@@ -1,0 +1,250 @@
+idea|idea|That's a great idea.
+cost|costar; costo|How much does it cost?
+less|menos|I want to spend less money.
+room|habitación, pieza; espacio|My room is small.
+until|hasta (que)|Wait until I call you.
+reason|razón, motivo|What's the reason?
+form|formulario; forma; formar|Please fill out this form.
+spend|gastar (dinero); pasar (tiempo)|I spend two hours a day on the bus.
+head|cabeza; jefe; dirigirse|My head hurts.
+car|auto|I drive my car to work.
+learn|aprender|I want to learn English fast.
+level|nivel|What's your English level?
+person|persona|She's a nice person.
+experience|experiencia|I have five years of experience.
+once|una vez|I go to the gym once a week.
+member|miembro|He's a member of the team.
+enough|suficiente|I don't have enough time.
+bad|malo|The weather is bad today.
+city|ciudad|Santiago is a big city.
+night|noche|Good night!
+able|capaz (be able to = poder)|I wasn't able to sleep.
+support|apoyar; apoyo; soporte|Thanks for your support.
+whether|si (entre opciones)|I don't know whether he's coming.
+line|línea; fila|Please wait in line.
+present|presente; regalo; presentar|I'll present the project tomorrow.
+side|lado|Sit on this side.
+quite|bastante|It's quite cold today.
+although|aunque|Although it was late, we kept working.
+sure|seguro|Are you sure?
+term|término; plazo; semestre|In the long term, it's cheaper.
+least|lo menos; at least = al menos|At least it's not raining.
+age|edad|What's your age?
+low|bajo|The price is low.
+speak|hablar (un idioma)|Do you speak English?
+within|dentro de|I'll reply within an hour.
+process|proceso; procesar|The process is simple.
+public|público|This is a public park.
+often|a menudo|I often work late.
+train|tren; entrenar|I take the train to work.
+possible|posible|Is it possible to change the date?
+actually|en realidad (no "actualmente")|Actually, I prefer tea.
+rather|más bien; bastante|I'd rather stay home.
+view|vista; opinión|The view is amazing.
+together|juntos|Let's work together.
+consider|considerar|Consider all the options.
+price|precio|The price went up.
+parent|padre o madre (parents = padres)|My parents live in Concepción.
+hard|difícil; duro; mucho (work hard)|This exercise is hard.
+party|fiesta; partido (político)|Are you coming to the party?
+local|local|I shop at local stores.
+control|controlar; control|I can't control my time.
+already|ya|I already finished.
+concern|preocupación; concernir|My main concern is the cost.
+product|producto|We sell digital products.
+lose|perder|Don't lose your keys.
+story|historia, cuento|Tell me a story.
+almost|casi|I'm almost done.
+continue|continuar|Let's continue tomorrow.
+stand|estar de pie; soportar|I can't stand the noise.
+whole|entero, todo|I ate the whole pizza.
+yet|todavía (negativas); ya (preguntas)|I haven't finished yet.
+rate|tasa; tarifa; calificar|The interest rate is high.
+care|cuidado; importar (I don't care)|Take care!
+expect|esperar (algo que pasará)|I expect an answer today.
+effect|efecto|The medicine had no effect.
+sort|tipo; ordenar|What sort of job is it?
+ever|alguna vez|Have you ever been to Peru?
+anything|algo, cualquier cosa; nada (neg.)|Do you need anything?
+cause|causar; causa|What caused the problem?
+fall|caer(se); otoño (EE. UU.)|Don't fall!
+deal|trato; ocuparse (deal with)|It's a deal!
+water|agua|Can I have some water?
+send|enviar|Send me an email.
+allow|permitir|Dogs are not allowed.
+soon|pronto|See you soon.
+watch|mirar (TV, partido); reloj|I watch series in English.
+base|base; basar|The company is based in Chile.
+probably|probablemente|I'll probably be late.
+suggest|sugerir|I suggest a short break.
+past|pasado|Forget the past.
+power|poder; energía|The power went out.
+test|prueba, examen; probar|I have a test tomorrow.
+visit|visitar; visita|Visit us anytime.
+center|centro|The shopping center is closed.
+grow|crecer; cultivar|Kids grow fast.
+nothing|nada|Nothing happened.
+return|volver; devolver|I need to return this book.
+mother|madre|My mother is a teacher.
+walk|caminar; caminata|I walk to work.
+matter|importar; asunto|It doesn't matter.
+mind|mente; molestar (do you mind?)|Do you mind if I sit here?
+value|valor; valorar|We value your opinion.
+office|oficina|I'm at the office.
+record|grabar; registro; récord|Record your voice.
+stay|quedarse; estadía|Stay here.
+force|fuerza; obligar|They forced him to leave.
+stop|parar, detener(se)|Stop the car!
+several|varios|I tried several times.
+light|luz; ligero|Turn on the light.
+develop|desarrollar|We develop mobile apps.
+remember|recordar|I don't remember his name.
+bit|un poco (a bit)|I'm a bit tired.
+share|compartir|Can you share your screen?
+real|real, verdadero|Is this a real diamond?
+answer|responder; respuesta|Answer the question.
+sit|sentarse|Please sit down.
+figure|cifra; figura; figure out = descifrar|I can't figure it out.
+letter|carta; letra|I wrote a letter to my grandmother.
+decide|decidir|I can't decide.
+language|idioma, lenguaje|English is a useful language.
+subject|tema; asignatura; asunto (email)|What's the subject of the email?
+class|clase|I have class at seven.
+development|desarrollo|She works in software development.
+town|pueblo, ciudad pequeña|I grew up in a small town.
+half|mitad, medio|Half an hour, please.
+minute|minuto|Wait a minute.
+food|comida|The food here is great.
+break|romper; descanso|Let's take a break.
+clear|claro; despejar|Is that clear?
+future|futuro|Think about your future.
+either|cualquiera (de dos); tampoco (neg.)|I don't like it either.
+ago|hace (tiempo)|I arrived two hours ago.
+per|por (cada)|It costs ten dollars per hour.
+remain|permanecer, seguir|Please remain seated.
+top|parte superior; mejor|It's on the top shelf.
+among|entre (varios)|She's popular among students.
+win|ganar (competencia)|We won the game.
+color|color|What's your favorite color?
+involve|involucrar|The job involves a lot of travel.
+reach|alcanzar; llegar a|I can't reach the top shelf.
+social|social|She's very social.
+period|período; punto final|It was a difficult period.
+across|a través de; al otro lado de|The bank is across the street.
+note|nota; notar|Take notes in class.
+history|historia (pasado)|I love history.
+create|crear|Create a new account.
+drive|manejar, conducir|Can you drive?
+along|a lo largo de|We walked along the beach.
+type|tipo; escribir (teclado)|What type of car is it?
+sound|sonido; sonar|That sounds good.
+eye|ojo|She has blue eyes.
+music|música|I listen to music every day.
+game|juego; partido|Let's play a game.
+political|político|It's a political problem.
+free|gratis; libre|Are you free tonight?
+receive|recibir|Did you receive my email?
+moment|momento|Just a moment, please.
+sale|venta; liquidación|These shoes are on sale.
+policy|política (norma)|What's the return policy?
+further|más (lejos, adicional)|For further information, call us.
+body|cuerpo|Exercise is good for your body.
+require|requerir|The job requires English.
+wait|esperar|Wait for me!
+general|general|In general, I agree.
+appear|aparecer; parecer|A message appeared on the screen.
+toward|hacia|He walked toward the door.
+team|equipo|Our team is small.
+easy|fácil|This is easy.
+individual|individual; individuo|Each individual is different.
+full|lleno|The bus is full.
+black|negro|I drink black coffee.
+sense|sentido|It makes sense.
+perhaps|quizás|Perhaps you're right.
+add|agregar|Add some salt.
+rule|regla|Follow the rules.
+pass|pasar; aprobar (examen)|I passed the exam!
+produce|producir|Chile produces copper.
+sell|vender|They sell used cars.
+short|corto; bajo (persona)|It's a short trip.
+agree|estar de acuerdo|I agree with you.
+law|ley|It's against the law.
+everything|todo|Everything is fine.
+research|investigación; investigar|I did some research online.
+cover|cubrir; tapa, portada|Cover your mouth.
+paper|papel; artículo|I need a piece of paper.
+position|posición; puesto|The position is still open.
+near|cerca de|I live near the office.
+human|humano|It's a human error.
+computer|computador|My computer is slow.
+situation|situación|It's a difficult situation.
+staff|personal (empleados)|The staff is very friendly.
+activity|actividad|What activities do you enjoy?
+film|película; filmar|I saw a good film.
+morning|mañana (parte del día)|Good morning!
+war|guerra|The war lasted four years.
+account|cuenta|I need to open a bank account.
+shop|tienda; comprar|I'm going shopping.
+major|principal, importante; carrera (EE. UU.)|It's a major problem.
+someone|alguien|Someone called you.
+above|encima de, sobre|The light is above the table.
+design|diseño; diseñar|I like the design.
+event|evento|The event starts at eight.
+special|especial|Today is a special day.
+sometimes|a veces|Sometimes I work on weekends.
+condition|condición; estado|The car is in good condition.
+carry|llevar, cargar|Can you carry this bag?
+choose|elegir|Choose one.
+father|padre|My father is retired.
+decision|decisión|It was a hard decision.
+table|mesa; tabla|Sit at the table.
+certain|cierto, seguro|I'm certain he's right.
+forward|adelante|Move forward.
+main|principal|What's the main problem?
+die|morir|My plant died.
+bear|soportar; oso|I can't bear this heat.
+cut|cortar; corte|I cut my finger.
+describe|describir|Describe your perfect day.
+himself|él mismo; se (reflexivo)|He hurt himself.
+available|disponible|Is the room available?
+especially|especialmente|I love fruit, especially mangoes.
+strong|fuerte|The coffee is strong.
+rise|subir, aumentar; aumento|Prices rise every year.
+girl|niña, chica|The girl is reading.
+maybe|quizás|Maybe tomorrow.
+community|comunidad|We have a strong community.
+else|más, otro (something else)|Anything else?
+particular|particular, específico|Is there a particular reason?
+role|rol, papel|What's your role in the team?
+join|unirse a|Join us for lunch.
+difficult|difícil|English spelling is difficult.
+please|por favor; agradar|Please wait here.
+detail|detalle|Send me the details.
+difference|diferencia|What's the difference?
+action|acción|We need to take action.
+health|salud|Health is important.
+eat|comer|Let's eat.
+step|paso|Take it step by step.
+true|verdadero, cierto|Is it true?
+phone|teléfono|My phone is dead.
+themselves|ellos mismos; se|They did it themselves.
+draw|dibujar; sacar|Can you draw a map?
+white|blanco|The walls are white.
+date|fecha; cita|What's the date today?
+practice|práctica; practicar|Practice every day.
+model|modelo|What model is your phone?
+raise|levantar; criar; aumento (de sueldo)|I asked for a raise.
+customer|cliente|The customer is always right.
+front|frente, delantero|Meet me in front of the bank.
+explain|explicar|Can you explain it to me?
+door|puerta|Close the door, please.
+outside|afuera|Let's eat outside.
+behind|detrás de|The park is behind the school.
+economic|económico (de la economía)|There's an economic crisis.
+site|sitio; obra|Visit our web site.
+approach|enfoque; acercarse|I like your approach.
+teacher|profesor|My teacher is from Canada.
+land|tierra, terreno; aterrizar|The plane landed on time.
+charge|cobrar; cargar (batería); cargo|My phone is charging.
+finally|finalmente, por fin|Finally, it's Friday!
+sign|firmar; señal, letrero|Sign here, please.
